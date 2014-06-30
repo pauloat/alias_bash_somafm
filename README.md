@@ -1,13 +1,12 @@
-#alias_bash_somafm
-#=================
-#
-#Soma.fm radios alias links for bash
-#
-# Save in ~/bashrc and then excecute 'source ~/.bashrc'
-#
-#
-#
-#####
+alias_bash_somafm
+=================
+
+Soma.fm radios alias links for bash
+
+ Save in ~/bashrc and then excecute 'source ~/.bashrc'
+
+
+=================
 
 alias beatblender='cvlc http://dcstream1.somafm.com:8384'
 alias doomed='cvlc http://xstream1.somafm.com:8300'
@@ -40,4 +39,4 @@ alias cliqhop='cvlc http://xstream1.somafm.com:8062'
 alias covers='cvlc http://dcstream1.somafm.com:8700'
 alias u80s='cvlc http://xstream1.somafm.com:8880'
 
-###
+=======================
