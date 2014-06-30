@@ -1,10 +1,7 @@
-alias_bash_somafm
+Soma.fm radios alias links for bash
 =================
 
-Soma.fm radios alias links for bash
-
- Save in ~/bashrc and then excecute 'source ~/.bashrc'
-
+Save in ~/bashrc and then excecute 'source ~/.bashrc'
 
 =================
 
